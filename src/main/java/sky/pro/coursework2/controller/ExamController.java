@@ -1,11 +1,11 @@
-package controller;
+package sky.pro.coursework2.controller;
 
-import data.Question;
+import sky.pro.coursework2.data.Question;
 import org.springframework.web.bind.annotation.GetMapping;
 import org.springframework.web.bind.annotation.PathVariable;
 import org.springframework.web.bind.annotation.RequestMapping;
 import org.springframework.web.bind.annotation.RestController;
-import service.ExaminerService;
+import sky.pro.coursework2.service.ExaminerService;
 
 import java.util.Collection;
 

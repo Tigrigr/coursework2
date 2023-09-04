@@ -1,6 +1,6 @@
 package service;
 
-import data.Question;
+import sky.pro.coursework2.data.Question;
 
 import java.util.Collection;
 import java.util.Set;

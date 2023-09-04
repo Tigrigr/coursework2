@@ -1,7 +1,7 @@
-package service;
+package sky.pro.coursework2.service;
 
-import data.Question;
-import exception.QuestionNotFoundException;
+import sky.pro.coursework2.data.Question;
+import sky.pro.coursework2.exception.QuestionNotFoundException;
 import org.springframework.stereotype.Service;
 
 import java.util.Collection;

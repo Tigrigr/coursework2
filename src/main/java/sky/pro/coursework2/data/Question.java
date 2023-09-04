@@ -1,4 +1,4 @@
-package data;
+package sky.pro.coursework2.data;
 
 import java.util.Objects;
 

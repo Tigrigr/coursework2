@@ -1,13 +1,14 @@
 package service;
 
-import exception.QuestionAmountException;
+import sky.pro.coursework2.exception.QuestionAmountException;
 import org.junit.jupiter.api.Test;
 import org.junit.jupiter.api.extension.ExtendWith;
 import org.mockito.InjectMocks;
 import org.mockito.Mock;
 import org.mockito.junit.jupiter.MockitoExtension;
+import sky.pro.coursework2.service.ExaminerServiceImpl;
+import sky.pro.coursework2.service.QuestionService;
 
-import static org.junit.jupiter.api.Assertions.*;
 import static org.mockito.Mockito.when;
 import static service.QuestionTest.*;
 import static org.assertj.core.api.Assertions.*;

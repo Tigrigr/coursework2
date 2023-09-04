@@ -1,12 +1,12 @@
 package service;
 
-import exception.QuestionNotFoundException;
-import org.junit.jupiter.api.Assertions;
+import sky.pro.coursework2.exception.QuestionNotFoundException;
 import org.junit.jupiter.api.BeforeEach;
 import org.junit.jupiter.api.Test;
+import sky.pro.coursework2.service.JavaQuestionService;
+import sky.pro.coursework2.service.QuestionService;
 
 
-import static org.junit.jupiter.api.Assertions.*;
 import static service.QuestionTest.*;
 import static org.assertj.core.api.Assertions.*;
 
